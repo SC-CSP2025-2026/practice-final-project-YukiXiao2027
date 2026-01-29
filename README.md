@@ -139,19 +139,19 @@ Now that you've chosen your API, make sure you have a plan to meet the requireme
 **1. What is going to be your list?**
 (e.g., jokes from Dad Jokes API, weather forecasts from Weather API, movie results from IMDB API)
 
-[Your answer here]
+[My list will display books based on a keyword search, such as the book title, author, and rating. Each item in my list is a book.]
 
 **2. What is going to be your function with a parameter?**
 (e.g., `loadJokesByCategory` with the parameter `category`, `getWeatherByCity` with the parameter `cityName`)
 
 Describe how you are going to use the parameter in your code:
 
-[Your answer here]
+[My function will take a parameter that represents the book keyword entered by the user. This parameter is used to build the API request URL and search for related books. `loadBooksBySearch` with the parameter `searchWord`]
 
 **3. What is going to be your loop?**
 (e.g., loop to display jokes, loop to display forecast days, loop to display movie results)
 
-[Your answer here]
+[The loop will display each book’s information, such as the title, author, rating, and summary on the webpage.]
 
 ---
 
