@@ -1,4 +1,4 @@
-const url = 'https://goodreads-books.p.rapidapi.com/search?q=harry&page=1';
+const url = 'https://student-api-proxy.onrender.com/api/goodreads-books.p.rapidapi.com/search?q=harry&page=1';
 const options = {
   method: "GET",
   headers: {
