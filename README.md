@@ -146,7 +146,7 @@ Now that you've chosen your API, make sure you have a plan to meet the requireme
 
 Describe how you are going to use the parameter in your code:
 
-[My function will take a parameter that represents the book keyword entered by the user. This parameter is used to build the API request URL and search for related books. `loadBooksBySearch` with the parameter `searchWord`]
+[My function will take a parameter that represents the book keyword entered by the user. This parameter is used to build the API request URL and search for related books. `loadBooksBySearch` with the parameter `searchTerm`]
 
 **3. What is going to be your loop?**
 (e.g., loop to display jokes, loop to display forecast days, loop to display movie results)

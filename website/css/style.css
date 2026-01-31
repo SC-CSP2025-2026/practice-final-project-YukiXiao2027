@@ -1,0 +1,15 @@
+body {
+/*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=feacff&c2=74aefa&gt=l&gd=dtl
+*/
+align-items: center;
+background: #FEACFF;
+background: linear-gradient(315deg, #FEACFF, #74AEFA);
+display: flex;
+text-align: center;
+}
+
+h1, .title {
+  font-family: "Bitcount Prop Single", sans-serif;
+}
