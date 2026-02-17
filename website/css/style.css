@@ -1,15 +1,25 @@
 body {
-/*
-* Created with https://www.css-gradient.com
-* Gradient link: https://www.css-gradient.com/?c1=feacff&c2=74aefa&gt=l&gd=dtl
-*/
-align-items: center;
-background: #FEACFF;
-background: linear-gradient(315deg, #FEACFF, #74AEFA);
-display: flex;
-text-align: center;
+  /*
+  * Created with https://www.css-gradient.com
+  * Gradient link: https://www.css-gradient.com/?c1=feacff&c2=74aefa&gt=l&gd=dtl
+  */
+
+  margin: 0;
+  min-height: 100vh;
+
+  background: #FEACFF;
+  background: linear-gradient(315deg, #FEACFF, #74AEFA);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 120px;
+
+  text-align: center;
 }
 
 h1, .title {
   font-family: "Bitcount Prop Single", sans-serif;
+  font-size: 64px;
 }
